@@ -22,6 +22,8 @@ Dataset: Pubmed (https://pubmed.ncbi.nlm.nih.gov/)
 - scipy
 
 ## Download Data
-RUN
-`python data_download.py`
+To run the code `data_download.py` try the following
+```
+$ python data_download.py
+```
 
