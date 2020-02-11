@@ -38,3 +38,11 @@ To evaluate the model performance the the following
 ```
 $ python NLP_classification.py --task test
 ```
+## Conclution 
+There are a large number of possibility to train such a model, however the following are important to mention
+- Generally Neural Netwrok based models performes better
+- First a tokenizer generates arrays from text
+- Second an Embedding layer generates array representation for each sequesnce 
+- WE can use RNN (simple or LSTM), CNN or attention based models 
+- My results is a one possibility
+
