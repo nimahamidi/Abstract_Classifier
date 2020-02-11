@@ -44,7 +44,7 @@ There are a large number of possibility to train such a model, however the follo
 - First a tokenizer generates arrays from text
 - Second an Embedding layer generates array representation for each sequesnce 
 - WE can use RNN (simple or LSTM), CNN or attention based models 
-- My results is a one possibility
+- My results is based on a CNN model
 
 <p align="center"> <img src="https://github.com/nimahamidi/Abstract_Classifier/blob/master/Figure_1.png" width="70%"> </p>
 
