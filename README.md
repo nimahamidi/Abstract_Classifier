@@ -22,8 +22,19 @@ Dataset: Pubmed (https://pubmed.ncbi.nlm.nih.gov/)
 - scipy
 
 ## Download Data
-To run the code `data_download.py` try the following
+Code `data_download.py` will downlod all the required data in four classes
+- Each class includes 700 examples
+- Class other has two time more examples (1400) to keep all classes ballanced 
 ```
 $ python data_download.py
 ```
 
+## Train the model
+To train the model run the following
+```
+$ python NLP_classification.py --task train
+```
+To evaluate the model performance the the following
+```
+$ python NLP_classification.py --task test
+```
