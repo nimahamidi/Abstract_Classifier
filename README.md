@@ -10,11 +10,17 @@ Classify given set of Pubmed abstracts (biomedical literature abstracts) into fo
 Dataset: Pubmed (https://pubmed.ncbi.nlm.nih.gov/)
 
 ## Required Libraries 
-
+- python 3
 - numpy 
 - tenforflow
 - keras
-- scikit learn
+- sklearn
 - pandas
 - bs4
 - requests
+- matplotlib
+- scipy
+
+## Download Data
+RUN
+`python data_download.py'
