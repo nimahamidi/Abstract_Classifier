@@ -32,11 +32,11 @@ $ python data_download.py
 ## Train the model
 To train the model run the following
 ```
-$ python NLP_classification.py --task train
+$ python NLP_Classification.py --task train
 ```
 To evaluate the model performance the the following
 ```
-$ python NLP_classification.py --task test
+$ python NLP_Classification.py --task test
 ```
 ## Conclution 
 There are a large number of possibility to train such a model, however the following are important to mention
