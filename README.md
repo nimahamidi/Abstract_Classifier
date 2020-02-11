@@ -46,6 +46,7 @@ There are a large number of possibility to train such a model, however the follo
 - WE can use RNN (simple or LSTM), CNN or attention based models 
 - My results is a one possibility
 
-<p align="center"> <img src="https://github.com/nimahamidi/Segmentation_with_FPN/blob/master/Segmentation_FPN.png" width="70%"> </p>
+<p align="center"> <img src="https://github.com/nimahamidi/Abstract_Classifier/blob/master/Figure_1.png" width="70%"> </p>
+
 
 
