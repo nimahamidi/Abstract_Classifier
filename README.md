@@ -1,4 +1,4 @@
-# Abstract_Classifier
+# Text Classification with pre-trained Embedding
 
 ## Problem
 Classify given set of Pubmed abstracts (biomedical literature abstracts) into four classes:
